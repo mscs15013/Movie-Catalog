@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AlamofireImage (3.5.2):
+    - Alamofire (~> 4.8)
+  - CodableAlamofire (1.1.1):
+    - Alamofire (~> 4.0)
+  - JGProgressHUD (2.0.3)
+  - XCDYouTubeKit (2.7.3)
+
+DEPENDENCIES:
+  - AlamofireImage
+  - CodableAlamofire
+  - JGProgressHUD
+  - XCDYouTubeKit (~> 2.7)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - CodableAlamofire
+    - JGProgressHUD
+    - XCDYouTubeKit
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireImage: 63cfe3baf1370be6c498149687cf6db3e3b00999
+  CodableAlamofire: b587c1198562824abb1f468aed34feb00d6cecd8
+  JGProgressHUD: 12b20a8f4ffe05258f8635c1ab92816e451f904d
+  XCDYouTubeKit: 3f4fd3eb3ed494a46a8f007b91315eed6dd6df1f
+
+PODFILE CHECKSUM: c5872b78e5388741a2d674f115804f46e7d7b09a
+
+COCOAPODS: 1.7.0.beta.3
